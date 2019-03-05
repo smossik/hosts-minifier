@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Hostsfile minifier": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\hosts.txt"
+    }
+  }
+}
